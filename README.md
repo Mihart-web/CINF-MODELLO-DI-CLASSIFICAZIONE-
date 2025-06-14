@@ -1,6 +1,6 @@
 # CINF-MODELLO-DI-CLASSIFICAZIONE-
 Modello di classificazione di 7 tipologie di oggetti astrofisici 
-# Modello C∞ – Turbulent Environment Classification (Giugno 2025)
+# Modello C∞ – Classificazione 7 tipologie di oggetti astrofisici incluso l'ambiente (Giugno 2025)
 
 Questo repository contiene:
 * `Cinf_full.pdf` – articolo completo.
