@@ -8,6 +8,12 @@ Questo repository contiene:
 * MIT LICENSE
 * Test Cinf 12 - 12 real Objects python code test ready to use
 
+⚠️  Lavoro in corso / proof-of-concept. Commenti e pull-request benvenuti!
+
+- 📄 [Scarica il paper completo (`CINF_full.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_full.pdf)
+- 📄 [Analisi profilo Burkert (`CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf)
+Contatti: Mihaela Vengher ( Mia) – <mihart.creation@gmail.com>
+
 ## Quick Start
 To run the classification with cross-validation and generate plots:
 ```bash
@@ -42,12 +48,8 @@ COPY data.csv .
 # Command to run the script
 CMD ["python", "classify_objects.py"]
 
+
 docker build -t astro-classifier .
 docker run astro-classifier
 
 
-⚠️  Lavoro in corso / proof-of-concept. Commenti e pull-request benvenuti!
-
-- 📄 [Scarica il paper completo (`CINF_full.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_full.pdf)
-- 📄 [Analisi profilo Burkert (`CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf)
-Contatti: Mihaela Vengher ( Mia) – <mihart.creation@gmail.com>
