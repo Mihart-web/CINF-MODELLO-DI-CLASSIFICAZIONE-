@@ -8,4 +8,7 @@ Questo repository contiene:
 * MIT LICENSE
 * 
 ⚠️  Lavoro in corso / proof-of-concept. Commenti e pull-request benvenuti!
-Contatti: Mihaela *Mia* Vengher – <mihart.creation@gmail.com>
+
+- 📄 [Scarica il paper completo (`CINF_full.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_full.pdf)
+- 📄 [Analisi profilo Burkert (`CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf`)](https://raw.githubusercontent.com/Mihart-web/CINF-MODELLO-DI-CLASSIFICAZIONE-/main/CINF_PREFERISCE_UN_PROFILO_BURKERT.pdf)
+Contatti: Mihaela Vengher ( Mia) – <mihart.creation@gmail.com>
