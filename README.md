@@ -6,5 +6,5 @@ Questo repository contiene:
 * `Cinf_full.pdf` – articolo completo.
 * `Cinf preferisce un profilo Burkert pdf
 * MIT LICENSE 
-
+⚠️  Lavoro in corso / proof-of-concept. Commenti e pull-request benvenuti!
 Contatti: Mihaela *Mia* Vengher – <mihart.creation@gmail.com>
