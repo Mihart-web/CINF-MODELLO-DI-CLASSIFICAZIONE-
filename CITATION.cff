@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use C∞, please cite this repository."
+title: "C∞: CINF MODELLO DI CLASSIFICAZIONE "
+version: 0.1.0
+authors:
+  - family-names: Vengher
+    given-names: Mihaela
+license: MIT
