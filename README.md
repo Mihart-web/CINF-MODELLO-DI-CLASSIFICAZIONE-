@@ -1,4 +1,4 @@
-# CINF-MODELLO-DI-CLASSIFICAZIONE-
+# WIP WIP WIP DRAFT CINF-MODELLO-DI-CLASSIFICAZIONE-
 Modello di classificazione di 7 tipologie di oggetti astrofisici 
 # Modello C∞ – Classificazione 7 tipologie di oggetti astrofisici incluso l'ambiente (Giugno 2025) - Usare pulsar, AXP e magnetar come sonde per materia oscura. 
 
